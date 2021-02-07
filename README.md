@@ -41,5 +41,9 @@
     * A max temperature lower than 80 degrees but higher than 75.
     * Wind speed less than 10 mph.
     * Zero cloudiness.    
+    
+![gmaps Heatmap](/VacationPy/VacationPy_Images/gmaps_heatmap.png)
 
 #### To ensure lodging is available in the desired locations, I used the Google Places API to identify the closest hotel within 5000 meters of the cities selected. I then plotted these on the existing heatmap so I could easily see the hotel details with an associated city on teh map. 
+
+![gmaps Heatmap with Hotels](/VacationPy/VacationPy_Images/gmaps_heatmap_hotels.png)
